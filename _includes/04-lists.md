@@ -3,7 +3,7 @@ I love eating:
   * Mangoes
   * Rice
 
-Kenya 🇰🇪enya has had only 4 presidents
+Kenya🇰🇪 has had only 4 presidents
    1. Jomo Kenyatta
    2. Daniel Arap Moi
    3. Mwai Kibaki
