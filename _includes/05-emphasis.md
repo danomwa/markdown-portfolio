@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am an __ALX Student__ 
+learning **software engineering**
+for **12 months**
